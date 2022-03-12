@@ -90,3 +90,4 @@ CHECK_CACHE_VERSION = True
 __all__ = ['datasets', 'decoding', 'decomposition', 'connectome',
            'image', 'maskers', 'masking', 'interfaces', 'mass_univariate',
            'plotting', 'regions', 'signal', 'surface', '__version__']
+__version__ = '2022.3'
